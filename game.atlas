@@ -1,34 +1,48 @@
-
-game.png
-size: 512, 128
+AbsoluteUnits.png
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+TileSets/AbsoluteUnits/Units/Batallion Squad
   rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 519, 1071
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+TileSets/AbsoluteUnits/Units/Batallion Squad-1
   rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 622, 1160
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+TileSets/AbsoluteUnits/Units/Batallion Squad-2
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 725, 1249
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+
+  TileSets/AbsoluteUnits/Units/Recon Squad
   rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 519, 1071
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Recon Squad-1
+  rotate: false
+  xy: 622, 1160
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Recon Squad-2
+  rotate: false
+  xy: 725, 1249
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
