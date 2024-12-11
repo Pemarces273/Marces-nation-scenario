@@ -13,5 +13,34 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+		{
+		"name": "Recon Squad",
+		"unitType": "Scout",
+		"uniqueTo": "Cimmerian North Thorn Company",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Batallian Squad",
+		"unitType": "Sword",
+		"uniqueTo": "Cimmerian North Thorn Company",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
 	}
 ]
