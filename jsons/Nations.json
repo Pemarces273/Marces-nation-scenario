@@ -34,5 +34,105 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	},
+    {
+        //corporation
+        "name": "Cimmerian North Thorn Company",
+        "leaderName": "Eris Kane",
+        "adjective": ["Cimmerian"],
+        // "startBias": ["Avoid [Tundra]"],
+        // "preferredVictoryType": "Scientific",
+        // "personality": "Eris Kane",
+    
+        "startIntroPart1": "Welcome to the arena of enterprise, Eris Kane, visionary leader of the Cimmerian North Thorn Company. Rising from the shadows of a once fractured industry, your corporation has forged a legacy of innovation and resilience. With its roots in cutting-edge biotechnologies and advanced cybernetic solutions, Cimmerian North Thorn is known for thriving in the harshest markets, where others wither. Will you wield your unmatched expertise and strategic acumen to dominate the corporate landscape and outlast your rivals?",
+        "startIntroPart2": "Eris Kane, the future belongs to the bold and the relentless. Will you seize this opportunity to lead the Cimmerian North Thorn Company to unparalleled heights, reshaping industries and solidifying your name in the annals of corporate history?",
+    
+        "declaringWar": "Your reckless maneuvers are a liability we can no longer tolerate. Consider this your final notice.",
+        "attacked": "Bold move. Let’s see if you can handle the consequences.",
+        "defeated": "It seems fortune has turned. Enjoy your fleeting triumph while it lasts.",
+        "introduction": "So, another competitor steps forward. Let’s see if you’re worth the time.",
+    
+        "neutralHello": "Ah, a familiar face. What’s the agenda today?",
+        "hateHello": "Why are you wasting my time?",
+    
+        "tradeRequest": "It appears even rivals have their uses. Let’s talk business.",
+    
+        "outerColor": [45, 20, 35],
+        "innerColor": [125, 220, 150],
+        // "favoredReligion": "Islam",
+        // "uniqueName": "Ingenuity",
+        // "uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+        
+        "cities": ["Thornspire", "Ironveil", "Shadowreach", "Obsidian Core", "Blackhaven", "Frostspire", "Drakemarch", "Silent Rift", "Phantom Crest", "Ashpoint",
+            "Grimhold", "Nightforge", "Ravencliff", "Gloommarch", "Voidspire", "Darkwater", "Ebonharbor", "Steelhold", "Moonshade", "Stoneward"],
+            
+        "spyNames": ["Dax Valor", "Zira Rune", "Kael Vyn", "Luna Dray", "Roth Ironhart", "Nyx Shard", "Wraith Daggerfall", "Vega Thorn", "Taryn Frost", "Silas Void"],
+    },
+    {
+        //nations
+        "name": "Lyonesian West Haven Company",
+        "leaderName": "CEO Marcus Alaric",
+        "adjective": ["Lyonesian"],
+        //	"startBias": ["Avoid [Tundra]"],
+        //	"preferredVictoryType": "Scientific",
+        //	"personality": "CEO Marcus Alaric",
+    
+        "startIntroPart1": "Welcome, esteemed Marcus Alaric, visionary leader of the Lyonesian West Haven Company. In an age of interstellar trade and relentless innovation, your corporation has become a beacon of harmonious commerce, thriving amidst the competition of megacorporations. Emerging from the Lyonesian Archipelago, your foresight and resilience have propelled West Haven to dominate the peaceful trade routes of the galaxy. But as history reminds us, even the greatest enterprises can falter without vigilance. Will you ensure that your legacy endures, illuminating the cosmos with the brilliance of Lyonesian ingenuity?",
+        "startIntroPart2": "CEO Marcus Alaric, the stars await your command. Will you outmaneuver your rivals and broker deals that stand the test of time? Will your corporation's prosperity write the next chapter of humanity's ascent?",
+    
+        "declaringWar": "This is not an acquisition; it is retaliation for your transgressions!",
+        "attacked": "A regrettable move, but expected from shortsighted rivals.",
+        "defeated": "Every corporation has its end. Ours will be remembered with respect.",
+        "introduction": "Another ambitious competitor? How intriguing.",
+    
+        "neutralHello": "A pleasure to meet you, colleague.",
+        "hateHello": "What could you possibly want now?",
+    
+        "tradeRequest": "A mutually beneficial agreement? You do have my attention.",
+    
+        "outerColor": [34,89,120],
+        "innerColor": [145,217,240],
+    //	"favoredReligion": "Islam",
+    //	"uniqueName": "Ingenuity",
+        // "uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+        "cities": ["West Haven","Silver Port","Lyonesis","Mariner's Crest","Harbor Prime","Azure Spire","Beacon Bay","Horizon Station","Arcadia Bay","Shimmer Harbor",
+            "Cobalt Reach","Crystal Cove","Aurora Wharf","Serenity Port","Gilded Quay","Lighthouse Haven","Neptune's Rest","Skyward Spire","Cascade Port","Twilight Anchorage",
+            "Verdant Reef","Oceanus","Nova Strand","Elysian Cove","Isle Horizon","Azure Forge","Celestial Spire","Bastion Quay","Starfall Haven","Nautilus Terminal"],
+        "spyNames": ["Iris Skye", "Jaxon Vail", "Livia Crest", "Sterling Marlow", "Ren Cascade", "Kael Meridian", "Isolde Baye", "Eamon Tide", "Ardyn Spire", "Niamh Zephyr"]
+    },
+    {
+        //nations
+        "name": "Drakoran North Forge Company",
+        "leaderName": "Forge Master Cael Drakar",
+        "adjective": ["Drakoran"],
+        //	"startBias": ["Avoid [Tundra]"],
+        //	"preferredVictoryType": "Scientific",
+        //	"personality": "Forge Master Cael Drakar",
+    
+        "startIntroPart1": "Hail, Forge Master Cael Drakar, visionary leader of the Drakoran North Forge Company. Emerging from the industrial heart of Drakora, your company has become synonymous with precision engineering and cutting-edge manufacturing. In this era of relentless innovation, North Forge stands as a titan of industrial might, forging alliances and reshaping industries. But the competition is fierce, and rivals seek to undermine your dominance. Will you strengthen your legacy with unbreakable resolve, ensuring that North Forge remains the backbone of the galaxy's production lines?",
+        "startIntroPart2": "Forge Master Drakar, the galaxy awaits your craftsmanship. Will you outmaneuver rival manufacturers and set the standard for excellence? Or will your ambitions be forged into something greater still?",
+    
+        "declaringWar": "A manufacturing titan must protect its own. You leave us no choice!",
+        "attacked": "An unwise move, but we will respond with the precision of our craft.",
+        "defeated": "Our furnaces may dim, but our legacy is unyielding.",
+        "introduction": "Another competitor in the market? Let us see your mettle.",
+    
+        "neutralHello": "A practical exchange of words, I hope.",
+        "hateHello": "What futile endeavor brings you here?",
+    
+        "tradeRequest": "A mutually beneficial arrangement? We may find common ground in steel and trade.",
+    
+        "outerColor": [78,34,34],
+        "innerColor": [200,100,50],
+    //	"favoredReligion": "Islam",
+    //	"uniqueName": "Ingenuity",
+        // "uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+        "cities": ["North Forge","Drakora","Ironclad Heights","Steel Haven","Furnace Point","Hammerfall","Forge Spire","Crimson Anvil","Titan Foundry","Smelter's Reach",
+            "Carbon Crest","Alloyed Hope","Core Foundry","Forgewell","Obsidian Bastion","Auric Forge","Lavafall Works","Starforge","Metalheart","Blast Furnace Bay",
+            "Molten Pillar","Blacksmith's Mark","Copperhead Rise","Thermal Axis","Vulcan's Grip","Anvil Star","Galactic Crucible","Forge Pinnacle","Cinder's End","Ironhaven Prime"],
+        "spyNames": ["Ragnar Flint", "Helena Molt", "Garrick Forge", "Isla Smelt", "Corbin Alloy", "Livia Pyre", "Ren Hammerfall", "Victor Carbide", "Aria Castwell", "Kellan Vulcan"]
+    }
+    
+    
+    
 ]
